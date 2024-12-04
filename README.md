@@ -71,7 +71,7 @@ php artisan serve
 
 ### Page d'accueil
 Cette page contient les informations générales sur la formation de cycle d’ingénieur
-![Page d'accueil](https://github.com/OUomar/Application-web-pour-la-gestion-de-la-formation-du-cycle-d-ing-nieur.git/blob/main/assets/captures/Capture1.jpg)
+![Page d'accueil](captures/Capture1.jpg)
 
 ### Page d'authentification pour admin et enseignant
 ![Page d'authentification](captures/Capture2.jpg)
