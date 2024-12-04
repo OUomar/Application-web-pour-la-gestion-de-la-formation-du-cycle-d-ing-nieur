@@ -67,5 +67,23 @@ php artisan migrate --seed
 php artisan serve
 ```
 
+## Captures d'écran
+
+### Page d'accueil
+Cette page contient les informations en générale sur la formation de cycle d’ingénieure
+![Page d'accueil](C:\Users\HP\Desktop\Capture1.jpg)
+
+### Page d'authentification pour admin et enseignant
+![Page d'accueil](C:\Users\HP\Desktop\Capture2.jpg)
+
+### Page d'authentification pour les étudiants
+![Page d'accueil](C:\Users\HP\Desktop\Capture3.jpg)
+
+### Page de tableau de bord  pour l’utilisateur admin
+![Page d'accueil](C:\Users\HP\Desktop\Capture4.jpg)
+
+### Page d’Accueil de l’utilisateur étudiant
+![Page d'accueil](C:\Users\HP\Desktop\Capture5.jpg)
+
 ## Auteur
 - [OMAR OUKHOUYA](https://www.linkedin.com/in/omar-oukhouya-306813229/)
