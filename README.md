@@ -71,18 +71,18 @@ php artisan serve
 
 ### Page d'accueil
 Cette page contient les informations générales sur la formation de cycle d’ingénieur
-![Page d'accueil](public/assets/captures/Capture1.jpg)
+![Page d'accueil](captures/Capture1.jpg)
 
 ### Page d'authentification pour admin et enseignant
-![Page d'authentification](public/assets/captures/Capture2.jpg)
+![Page d'authentification](captures/Capture2.jpg)
 
 ### Page d'authentification pour les étudiants
-![Page d'authentification](public/assets/captures/Capture3.jpg)
+![Page d'authentification](captures/Capture3.jpg)
 
 ### Page de tableau de bord pour l’utilisateur admin
-![Page de tableau de bord](public/assets/captures/Capture4.jpg)
+![Page de tableau de bord](captures/Capture4.jpg)
 
 ### Page d’accueil de l’utilisateur étudiant
-![Page d’accueil de l’étudiant](public/assets/captures/Capture5.jpg)
+![Page d’accueil de l’étudiant](captures/Capture5.jpg)
 ## Auteur
 - [OMAR OUKHOUYA](https://www.linkedin.com/in/omar-oukhouya-306813229/)
