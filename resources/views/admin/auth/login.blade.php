@@ -32,7 +32,7 @@
             <form method="POST" action="{{ route('admin.login')}}" >
                 @csrf
               <div class="form-group first">
-                <label for="username">Eamil</label>
+                <label for="username">Email</label>
                 <input type="text" class="form-control" name="email" placeholder="votre-email@gmail.com" id="email"  required autofocus autocomplete="username" >
               </div>
               <div class="form-group last mb-3">
